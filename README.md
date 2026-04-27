@@ -5,7 +5,7 @@ regCalibCRS.R: the imputation-based regression cabibration method.
 regCablibRSW.R: the attenuation factor-based regression calibration method.
 
 
-For what covariates to be included in the outcome model and the measurement error/calibration model, please read:
+Regarding what covariates to be included in the outcome model and the measurement error/calibration model, please read:
 
 Wenze Tang, Donna Spiegelman, Xiaomei Liao, Molin Wang*. Causal selection of covariates in regression calibration for mismeasured continuous exposure. Epidemiology. 2024 May 1;35(3):320-8.
 
@@ -13,4 +13,5 @@ Wenze Tang, Donna Spiegelman, Yujie Wu, Molin Wang*. Causal Covariate Selection 
 
 Note: R package for the main study/reliability study design: 
   R package 'RegCalReliab'
+  
   https://cran.r-project.org/web/packages/RegCalReliab/index.html
