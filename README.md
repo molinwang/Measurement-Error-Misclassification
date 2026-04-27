@@ -4,6 +4,8 @@ regCalibCRS.R: the imputation-based regression cabibration method.
 
 regCablibRSW.R: the attenuation factor-based regression calibration method.
 
+testLinear.R: testing linear vs. nonlinear associations
+
 
 Regarding what covariates to be included in the outcome model and the measurement error/calibration model, please read:
 
